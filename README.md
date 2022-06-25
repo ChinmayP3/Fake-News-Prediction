@@ -1,1 +1,1 @@
-# P4-Fake-News-Prediction
+# Fake-News-Prediction
